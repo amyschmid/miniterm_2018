@@ -1,0 +1,5 @@
+For this course, we will be using Jupyter Notebooks and a version of python called Anaconda. Luckily Anaconda installs both jupyter notebooks  and python as defaults! For running jupyter notebooks where we will evaluate python code and make figures, we will also need an internet browser such as google chrome (as long as its not internet explorer). If needed, please download google chrome. To install Anaconda please follow these directions and links:
+Navigate to https://www.continuum.io/downloads
+For your system (i.e. Windows or Mac os) download the appropriate version of Anaconda. Click the tab with your system name (the webpage should do this for you). Scroll down the page for a blue button on the right hand side and download the graphical installer of Python 2.7 
+After downloading the graphical installer of Python 2.7, run the installer and follow its directions. 
+Anaconda (Python 2.7) along with jupyter notebooks should now be installed on your computer. This link: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html contains a "how to start" guide to Jupyter Notebooks. 
